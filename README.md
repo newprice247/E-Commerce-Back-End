@@ -19,7 +19,7 @@
 * Navigate to the folder inside your terminal and run 'npm install' to install the necessary node modules
 * Make sure you have MySQL installed on your machine, if you need help [here's a guide to get you started](https://coding-boot-camp.github.io/full-stack/mysql/mysql-installation-guide)
 
-* In your MySQL shell or workbench, source the schema.sql and seeds.sql files that are located in the db folder to get the employee_tracker database and tables created and initialized. The commands should look something like this: 
+* In your MySQL shell or workbench, source the schema.sql file that is located in the 'db' folder to get the e-commerse-back-end database and tables populated. The commands should look something like this: 
 
         mysql> source ..\E-Commerce-Back-End\db\schema.sql
 
