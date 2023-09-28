@@ -23,7 +23,7 @@
 
         mysql> source ..\E-Commerce-Back-End\db\schema.sql
 
-* Return to your node terminal and run 'npm run seed' to populate the database with the provided seeds.
+* Return to your node terminal and run 'npm run seed' to populate the database with the provided table data.
 
 * Now that the database has some data, run 'npm start' in your terminal to start the application! 
  
