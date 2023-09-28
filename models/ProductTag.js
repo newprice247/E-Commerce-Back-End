@@ -4,9 +4,9 @@ const sequelize = require('../config/connection');
 
 class ProductTag extends Model {}
 
+//sets up fields and rules for ProductTag model, connecting Product and Tag models through their unique ids
 ProductTag.init(
   {
-    // define columns
     id: {
         type: DataTypes.INTEGER,
         allowNull: false,
