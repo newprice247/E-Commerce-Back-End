@@ -8,10 +8,8 @@
   
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Contribution](#contribution)
   - [Credits](#credits)
   - [License](#license)
-  - [Tests](#tests)
   - [Questions](#questions)
 
   ## Installation
